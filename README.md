@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there👋
+- 🌱 I'm currently working on Therapy AI and websites!
+- 🎓 I'm currently studying at Amherst College
 <!--
 **lindsaywardd/lindsaywardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
